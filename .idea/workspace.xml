@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5ed50eb-4fe1-49c6-8a6d-7867c9b5c9fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V9foDYPJWIA7dNl3TUV3NirjEH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/manage.py" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunManager" selected="Python.runserver">
+    <configuration name="createsuperuser" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="db_manager" />
+        <env name="DB_PASSWORD" value="Django#1234" />
+        <env name="DJANGO_SETTINGS_MODULE" value="private_diary.settings_dev" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sinfo\Desktop\django-samples\django_next_one\venv\myenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="createsuperuser" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="makemigrations" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="db_manager" />
+        <env name="DB_PASSWORD" value="Django#1234" />
+        <env name="DJANGO_SETTINGS_MODULE" value="private_diary.settings_dev" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sinfo\Desktop\django-samples\django_next_one\venv\myenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="makemigrations" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="migrate" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="db_manager" />
+        <env name="DB_PASSWORD" value="Django#1234" />
+        <env name="DJANGO_SETTINGS_MODULE" value="private_diary.settings_dev" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sinfo\Desktop\django-samples\django_next_one\venv\myenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="migrate" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runserver" type="PythonConfigurationType" factoryName="Python">
+      <module name="private_diary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DB_USER" value="db_manager" />
+        <env name="DB_PASSWORD" value="Django#1234" />
+        <env name="DJANGO_SETTINGS_MODULE" value="private_diary.settings_dev" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sinfo\Desktop\django-samples\django_next_one\venv\myenv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.runserver" />
+      <item itemvalue="Python.makemigrations" />
+      <item itemvalue="Python.migrate" />
+      <item itemvalue="Python.createsuperuser" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ed50eb-4fe1-49c6-8a6d-7867c9b5c9fd" name="Default Changelist" comment="" />
+      <created>1576670403375</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576670403375</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="95" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577600857903">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="95" y="15" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1577600857903" />
+    <state x="375" y="122" key="EnvironmentVariablesDialog" timestamp="1576971543023">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="375" y="122" key="EnvironmentVariablesDialog/0.0.1280.720@0.0.1280.720" timestamp="1576971543023" />
+    <state x="307" y="145" key="FileChooserDialogImpl" timestamp="1576696498156">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="307" y="145" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1576696498156" />
+    <state width="1259" height="350" key="GridCell.Tab.0.bottom" timestamp="1577600933529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="350" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577600933529" />
+    <state width="1259" height="350" key="GridCell.Tab.0.center" timestamp="1577600933529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="350" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1577600933529" />
+    <state width="1259" height="350" key="GridCell.Tab.0.left" timestamp="1577600933529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="350" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1577600933529" />
+    <state width="1259" height="350" key="GridCell.Tab.0.right" timestamp="1577600933529">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="350" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1577600933529" />
+    <state width="1259" height="279" key="GridCell.Tab.1.bottom" timestamp="1577600859646">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="279" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1577600859646" />
+    <state width="1259" height="279" key="GridCell.Tab.1.center" timestamp="1577600859646">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="279" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1577600859646" />
+    <state width="1259" height="279" key="GridCell.Tab.1.left" timestamp="1577600859646">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="279" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1577600859646" />
+    <state width="1259" height="279" key="GridCell.Tab.1.right" timestamp="1577600859646">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="279" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1577600859646" />
+    <state x="38" y="1" key="SettingsEditor" timestamp="1576908808107">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="38" y="1" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1576908808107" />
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog" timestamp="1576670561583">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="341" y="184" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1576670561583" />
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1576897801190">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="288" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1280.720@0.0.1280.720" timestamp="1576897801190" />
+  </component>
+</project>
